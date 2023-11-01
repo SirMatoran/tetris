@@ -13,6 +13,7 @@ HEIGHT = SQUARES_QUANTITY_IN_HEIGHT * SQUARE_SIZE
 
 # pygame setup
 pygame.init()
+pygame.display.set_caption('Tetris By Alexis Bianchi')
 screen = pygame.display.set_mode((WIDTH, HEIGHT))
 clock = pygame.time.Clock()
 running = True
