@@ -1,0 +1,8 @@
+# macOS generated files
+.DS_Store
+
+# Visual Studio Code cache/config directory
+.vscode/
+
+#Other
+__pycache__
