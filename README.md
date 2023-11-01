@@ -4,4 +4,4 @@
 
 ## Game Preview
 
-![Tetris image](assets/preview/90CD0683-F82B-4A75-A8E3-2AC3AFAF6586.jpeg)
+<img src="assets/preview/90CD0683-F82B-4A75-A8E3-2AC3AFAF6586.jpeg" width="200">
